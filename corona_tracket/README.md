@@ -1,4 +1,7 @@
-# corona_tracket
+# corona_tracker
+
+This app will allow you to look up statistics about the Corona Virus.
+I built the app utilizing Flutter Framework and the Bloc Architectural Pattern.
 
 A new Flutter project.
 
